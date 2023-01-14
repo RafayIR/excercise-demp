@@ -1,0 +1,40 @@
+$myColor: #ccc;
+
+.activityForm {
+    .form--wrapper {
+        padding: 60px 0px;
+        width: 50%;
+        margin: auto;
+    }
+}
+
+.card--wrapper{
+    flex-wrap: wrap;
+    column-gap: 30px;
+    padding: 0;
+  
+}
+
+.activityRegistered {
+    .user--wrapper {
+        padding: 20px 0;
+
+        li {
+            padding: 7px 0;
+            font-size: 17px;
+            font-weight: 600;
+            font-family: sans-serif;
+            list-style-type: none;
+
+           
+        }
+    }
+
+}
+
+
+.btn-success{
+    width: 200px;
+}
+
+
